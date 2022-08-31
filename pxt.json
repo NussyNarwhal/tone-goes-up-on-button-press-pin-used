@@ -1,5 +1,5 @@
 {
-    "name": "tone goes up on button press (pin used)",
+    "name": "interuption",
     "description": "",
     "dependencies": {
         "core": "*",

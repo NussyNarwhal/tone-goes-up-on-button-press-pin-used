@@ -4,3 +4,6 @@ input.onPinPressed(TouchPin.P0, function () {
 })
 let sound = 0
 sound = 600
+basic.forever(function () {
+    music.playMelody("- - - A B A F A ", 120)
+})
